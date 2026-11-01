@@ -42,6 +42,23 @@ Social Media Posts
        v
  Final Hashtag Frequency
 
+## Project Screenshots
+
+### 1. Input Dataset
+![Input Dataset](screenshots/01_input.png)
+
+### 2. HDFS Input Data
+![HDFS Input](screenshots/02_hdfs_input.png)
+
+### 3. Python Mapper Output
+![Mapper Output](screenshots/03_mapper_output.png)
+
+### 4. Final MapReduce Output
+![Final Output](screenshots/04_final_output.png)
+
+### 5. YARN Application Status
+![YARN Application](screenshots/05_yarn_application.png)
+
 ## Input Dataset
 
 The input dataset contains sample social media posts with hashtags.
